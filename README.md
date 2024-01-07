@@ -194,4 +194,8 @@ public string Os { get; }
 3\. Buka command prompt console di Visual Studio Code dan ketikan: `mpm install` tunggu sampai installasi **node package** selesai  
 4\. Kemudian ketikan: `ng serve -o`
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4664a52f5ce36cd8a987450c30de5c282529d0818fbeb53c.png)
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/961fa6d642aea80330c0aca992a9b08c1e86360f63b092f7.png)
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/da023f57b049ec0492c579eb935c2ed7b15b6fcb9610399c.png)
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/f8cfc149057ab4805b2fb648e3cbb0eef0e720598906dee5.jpeg)
