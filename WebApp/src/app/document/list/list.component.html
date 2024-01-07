@@ -1,0 +1,27 @@
+<div class="container">
+    <br />
+    <div class="row">
+      <div class="col">
+        <h3>List Documnt</h3>
+      </div>
+      <div class="col text-right">
+        <a href="#" routerLink="/document/create/" class="btn btn-success btn-sm">Create New</a>
+      </div>
+    </div>
+    <br />
+    <table class="table table-bordered table-sm">
+      <tr>
+        <th>Name</th>
+        <th>Size</th>
+        <th width="200px"></th>
+      </tr>
+      <tr *ngFor="let document of documentList">
+        <td>{{ document.name }}</td>
+        <td>{{ document.size }}</td>
+        <td class="text-right">
+          <a href="#" [routerLink]="['/players/', document.fileBlobId, 'details']" class="btn btn-info btn-sm">Download</a>&nbsp;
+        </td>
+      </tr>
+    </table>
+  </div>
+  
