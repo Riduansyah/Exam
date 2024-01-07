@@ -1,0 +1,12 @@
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\bin\Debug\net7.0\Domain.dll
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\bin\Debug\net7.0\Domain.pdb
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\Domain.dll
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\Domain.pdb
+D:\RIDUAN\MSBU\Repo\WebApi\Domain\obj\Debug\net7.0\ref\Domain.dll
