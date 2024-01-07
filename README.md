@@ -148,7 +148,7 @@ public string Os { get; }
         }
 
 
-		//method baru, hapus node
+        //method baru, hapus node
         public void RemoveChildIndex(int index)
         {
             _children.RemoveAt(index);
@@ -179,7 +179,7 @@ public string Os { get; }
 
 **Web Application Development using Clean Architecture**
 
-*   Project WebApi belum include Autentikasi untuk user, project Web hanya bisa upload file
+*   Project WebApi belum include Autentikasi untuk user, project ini hanya bisa upload dan menampilkan file document
 *   Project WebApp/ Web Client dibangun dengan Angular v15
 
 **Instalasi**
@@ -191,5 +191,7 @@ public string Os { get; }
 
 1\. Unduh source code - WebApp  
 2\. Sesuaikan link web api yang sudah di running - ubah file **environments/environment.ts**  
-3\. Buka command prompt console di Visual Studio Code dan ketikan: `mpm install` tunggu sampai installasi nodejs selesai
+3\. Buka command prompt console di Visual Studio Code dan ketikan: `mpm install` tunggu sampai installasi **node package** selesai  
 4\. Kemudian ketikan: `ng serve -o`
+
+![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4664a52f5ce36cd8a987450c30de5c282529d0818fbeb53c.png)
