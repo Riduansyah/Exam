@@ -192,4 +192,4 @@ public string Os { get; }
 1\. Unduh source code - WebApp  
 2\. Sesuaikan link web api yang sudah di running - ubah file **environments/environment.ts**  
 3\. Buka command prompt console di Visual Studio Code dan ketikan: `mpm install` tunggu sampai installasi nodejs selesai
-3\. Kemudian ketikan: `ng serve -o`
+4\. Kemudian ketikan: `ng serve -o`
