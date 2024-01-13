@@ -185,12 +185,12 @@ public string Os { get; }
 **Instalasi**
 
 1\. Unduh source code - WebApi  
-2\. Ubah string koneksi - dalam proyek WebApi di file appsettings.json masukkan nama server dan nama database (SQL Server 2022 Management Studio).  
+2\. Kemudian unzip file tersebut, buka file project yg sebelumnya sudah di unzip menggunakan Visual Studio 2022 buka file appsettings.json ganti atau sesuaikan server dan nama database (SQL Server 2022 Management Studio).  
 3\. Buka Package Manager Console di Visual Studio dan ketik: `Update-Database`  
 4\. Run project
 
 1\. Unduh source code - WebApp  
-2\. Sesuaikan link web api yang sudah di running - ubah file **environments/environment.ts**  
+2\. Kemudian unzip file WebApp, buka file tersebut menggunakan Visual Studio Code selanjutnya ubah file **environments/environment.ts** sesuaikan link web api yang sudah di running   
 3\. Buka command prompt console di Visual Studio Code dan ketikan: `mpm install` tunggu sampai installasi **node package** selesai  
 4\. Kemudian ketikan: `ng serve -o`
 
