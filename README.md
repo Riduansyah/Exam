@@ -12,7 +12,7 @@
     }
 
 
-   //Betuk sederhana dari statemen diatas
+   //Betuk sederhana dari potongan kode diatas
    return application?.protected?.shieldLastRun;
         
 ```
@@ -52,7 +52,7 @@ class Laptop
     }
 }
 var laptop = new Laptop("macOs");
-Console.WriteLine(Laptop.Os); // Laptop os: macOs
+Console.WriteLine(laptop.Os); // Laptop os: macOs
 
 
 //fungsi set dihapus karena pada class diatas untuk melakukan perubahan value terhadap property Os atau tidak digunakan sama sekali
